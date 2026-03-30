@@ -75,3 +75,10 @@
 + Advanced Backend Development
 + System Design Concepts
 + Performance Optimization
+```
+🐍 Contribution Snake Animation
+<p align="center"> <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/> </p>
+✨ Quote
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/> </p>
+🔥 Visitor Counter
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bansirakholiya&label=Profile%20Views&color=0e75b6&style=flat"/> </p> ```
