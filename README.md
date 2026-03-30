@@ -1,26 +1,34 @@
-<h1 align="center">Hi 👋, I'm Bansi Rakholiya</h1>
-
-<h3 align="center">
-🚀 Jr. Software Developer | .NET | React | SQL
-</h3>
+<h1 align="center">👋 Hi, I'm <span style="color:#58a6ff;">Bansi Rakholiya</span></h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Backend+Specialist;Problem+Solver;Always+Learning+New+Things" />
+<b>🚀 Jr. Software Developer | .NET | React | SQL</b>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&color=58A6FF&center=true&vCenter=true&lines=Full+Stack+Developer;Backend+Specialist;Clean+Code+Lover;Always+Learning+🚀" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+<!-- GLASS CARD -->
+<div align="center">
 
-<div style="background: #0d1117; padding: 15px; border-radius: 10px; border: 1px solid #30363d;">
+<table>
+<tr>
+<td>
 
-- 🔭 Working on **Web Development using .NET, SQL, JavaScript**
-- 🌱 Learning **Advanced Backend & System Design**
-- 👯 Collaborating on **Real-world Projects**
-- 🤝 Improving **Scalable Architecture Skills**
-- 💬 Ask me about **.NET, C#, SQL, JS, Backend**
-- 📫 **bansirakholiya99@gmail.com**
-- ⚡ *Coding + Learning = My Daily Routine*
+### 🧑‍💻 About Me
+
+- 🔭 Working on **.NET, SQL, JavaScript Applications**
+- 🌱 Learning **System Design & Scalable Backend**
+- 👯 Open to **Real-world Projects**
+- 🤝 Improving **Architecture Skills**
+- 💬 Ask me about **C#, SQL, Backend Dev**
+- ⚡ *Code + Learn = Repeat 🔁*
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -30,10 +38,13 @@
 
 <p align="center">
 <a href="https://github.com/bansirakholiya">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 <a href="https://linkedin.com/in/bansi-rakholiya">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:bansirakholiya99@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
 
@@ -41,44 +52,40 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=dotnet,react,js,html,css,mysql,postgres,angular,c" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bansirakholiya&show_icons=true&theme=tokyonight&border_radius=10" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bansirakholiya&theme=tokyonight&border_radius=10" />
-</p>
-
-🐍 Contribution Snake Animation
-<p align="center"> <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/> </p>
----
-
-## 🎯 Goals
-
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-
-<span style="background:#1f6feb; padding:8px 12px; border-radius:20px; color:white;">🚀 Full Stack Developer</span>
-<span style="background:#238636; padding:8px 12px; border-radius:20px; color:white;">🌍 Open Source</span>
-<span style="background:#da3633; padding:8px 12px; border-radius:20px; color:white;">🧩 Scalable Apps</span>
 
 </div>
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=bansirakholiya&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bansirakholiya&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bansirakholiya&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🎯 Goals (Modern UI)
+
+<p align="center">
+<img src="https://img.shields.io/badge/🚀%20Full%20Stack%20Developer-1f6feb?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌍%20Open%20Source-238636?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧩%20Scalable%20Apps-da3633?style=for-the-badge"/>
+</p>
+
+---
+
 ## 🧠 Currently Learning
 
-```diff
-+ Advanced Backend Development
-+ System Design Concepts
-+ Performance Optimization
-```
-✨ Quote
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/> </p>
-🔥 Visitor Counter
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bansirakholiya&label=Profile%20Views&color=0e75b6&style=flat"/> </p> ```
+```css
+✔ Advanced Backend Development
+✔ System Design
+✔ Performance Optimization
