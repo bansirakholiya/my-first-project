@@ -55,6 +55,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bansirakholiya&theme=tokyonight&border_radius=10" />
 </p>
 
+🐍 Contribution Snake Animation
+<p align="center"> <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/> </p>
 ---
 
 ## 🎯 Goals
