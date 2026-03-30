@@ -9,9 +9,7 @@
 - 👯 I'm looking to collaborate on **Real-world projects and open source contributions**
 
 - 🤝 I'm looking for help with **Improving system design and backend architecture**
-# Hi 👋, I'm Bansi Rakholiya
 
-<h3 align="center">🚀 Jr. Software Developer | .NET | React | SQL</h3>
 
 ---
 
