@@ -9,6 +9,91 @@
 - 👯 I'm looking to collaborate on **Real-world projects and open source contributions**
 
 - 🤝 I'm looking for help with **Improving system design and backend architecture**
+# Hi 👋, I'm Bansi Rakholiya
+
+<h3 align="center">🚀 Jr. Software Developer | .NET | React | SQL</h3>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🔭 Currently working on **Web Application Development** using **.NET, SQL, JavaScript, jQuery**
+- 🌱 Learning **Full Stack Development & Advanced Backend Architecture**
+- 👯 Open to collaborate on **Real-world Projects & Open Source**
+- 🤝 Looking for help with **System Design & Scalable Backend Development**
+- 💬 Ask me about **.NET, C#, SQL, JavaScript, jQuery, Backend Development**
+- 📫 Reach me at **bansirakholiya99@gmail.com**
+- ⚡ Fun fact: *I love solving coding problems and exploring new technologies daily*
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/bansirakholiya" target="blank">
+<img src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+<a href="https://linkedin.com/in/bansi-rakholiya" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=c,js" />
+</p>
+
+### 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,angular" />
+</p>
+
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet" />
+</p>
+
+### 🗄️ Database
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=bansirakholiya&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bansirakholiya&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+- 🔹 Advanced Backend Architecture  
+- 🔹 System Design Concepts  
+- 🔹 Scalable Web Applications  
+
+---
+
+## 🎯 Goals
+
+- 🚀 Become a **Full Stack Developer**
+- 🌍 Contribute to **Open Source Projects**
+- 🧩 Build **Real-world Scalable Applications**
+
+---
+
+## ✨ Quote
+
+> “Code, Learn, Build, Repeat 🔁”
+
+---
 
 - 💬 Ask me about **.NET, C#, SQL, JavaScript, jQuery, Web Development, Backend Development**
 
