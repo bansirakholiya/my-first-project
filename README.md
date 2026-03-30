@@ -77,4 +77,4 @@
 + Performance Optimization
 ```
 ✨ Quote
-<p align="center"> <b>“Code. Learn. Build. Repeat 🔁”</b> </p> ```
+<p align="center"> <b>“Code. Learn. Build. Repeat 🔁”</b> </p> 
