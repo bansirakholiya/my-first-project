@@ -1,26 +1,29 @@
-<h1 align="center">Hi 👋, I'm Bansi Rakholiya</h1>
+<!-- 🌊 HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:1f6feb&height=220&section=header&text=Bansi%20Rakholiya&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
-<h3 align="center">
-🚀 Jr. Software Developer | .NET | React | SQL
-</h3>
+<!-- 👋 INTRO -->
+<h1 align="center">Hi 👋, I'm Bansi Rakholiya</h1>
+<h3 align="center">🚀 Jr. Software Developer | .NET | React | SQL</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Backend+Specialist;Problem+Solver;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Specialist;Problem+Solver;Always+Learning..." />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-<div style="background: #0d1117; padding: 15px; border-radius: 10px; border: 1px solid #30363d;">
+<div style="background: rgba(255,255,255,0.05); backdrop-filter: blur(10px); padding: 20px; border-radius: 15px; border: 1px solid rgba(255,255,255,0.1);">
 
-- 🔭 Working on **Web Development using .NET, SQL, JavaScript**
+- 🔭 Working on **.NET, SQL, JavaScript Projects**
 - 🌱 Learning **Advanced Backend & System Design**
-- 👯 Collaborating on **Real-world Projects**
+- 👯 Collaborating on **Real-world Applications**
 - 🤝 Improving **Scalable Architecture Skills**
-- 💬 Ask me about **.NET, C#, SQL, JS, Backend**
+- 💬 Ask me about **.NET, C#, SQL, APIs**
 - 📫 **bansirakholiya99@gmail.com**
-- ⚡ *Coding + Learning = My Daily Routine*
+- ⚡ *Consistency + Coding = Growth*
 
 </div>
 
@@ -47,25 +50,53 @@
 
 ---
 
+## ⚡ Tech Badges
+
+<p align="center">
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=bansirakholiya&show_icons=true&theme=tokyonight&border_radius=10" />
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bansirakholiya&theme=tokyonight&border_radius=10" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bansirakholiya&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bansirakholiya&theme=tokyo-night&border_radius=10"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bansirakholiya&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
 ## 🎯 Goals
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-
+<p align="center">
 <span style="background:#1f6feb; padding:8px 12px; border-radius:20px; color:white;">🚀 Full Stack Developer</span>
 <span style="background:#238636; padding:8px 12px; border-radius:20px; color:white;">🌍 Open Source</span>
 <span style="background:#da3633; padding:8px 12px; border-radius:20px; color:white;">🧩 Scalable Apps</span>
-
-</div>
+</p>
 
 ---
 
@@ -75,10 +106,3 @@
 + Advanced Backend Development
 + System Design Concepts
 + Performance Optimization
-```
-🐍 Contribution Snake Animation
-<p align="center"> <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/> </p>
-✨ Quote
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/> </p>
-🔥 Visitor Counter
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bansirakholiya&label=Profile%20Views&color=0e75b6&style=flat"/> </p>
