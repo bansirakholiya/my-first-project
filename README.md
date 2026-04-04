@@ -1,111 +1,58 @@
-<!-- 🌊 HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:1f6feb&height=220&section=header&text=Bansi%20Rakholiya&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
-
-<!-- 👋 INTRO -->
-<h1 align="center">Hi 👋, I'm Bansi Rakholiya</h1>
-<h3 align="center">🚀 Jr. Software Developer | .NET | React | SQL</h3>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Bansi%20Rakholiya&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Jr.Software%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Specialist;Problem+Solver;Always+Learning..." />
+  <a href="https://komarev.com/ghpvc/?username=bansirakholiya">
+    <img src="https://komarev.com/ghpvc/?username=bansirakholiya&label=Profile%20views&color=00FFFF&style=flat-square" alt="bansirakholiya's profile views" />
+  </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
-## 🧑‍💻 About Me
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/bansirakholiya">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bansirakholiya&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="bansirakholiya's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=bansirakholiya&theme=radical&hide_border=true&cache_seconds=86400" alt="bansirakholiya's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=bansirakholiya&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Bansi Rakholiya's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=bansirakholiya&theme=radical&radius=10" alt="bansirakholiya's Activity Graph" />
+</p>
 
-<div style="background: rgba(255,255,255,0.05); backdrop-filter: blur(10px); padding: 20px; border-radius: 15px; border: 1px solid rgba(255,255,255,0.1);">
 
-- 🔭 Working on **.NET, SQL, JavaScript Projects**
-- 🌱 Learning **Advanced Backend & System Design**
-- 👯 Collaborating on **Real-world Applications**
-- 🤝 Improving **Scalable Architecture Skills**
-- 💬 Ask me about **.NET, C#, SQL, APIs**
-- 📫 **bansirakholiya99@gmail.com**
-- ⚡ *Consistency + Coding = Growth*
+## 🛠️ Languages & Tools
 
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
+
+<p align="center">
+  <a href="https://github.com/bansirakholiya">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bansirakholiya&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+## 🔗 Connect with Me
+<p align="left"> <a href="Bansi Rakholiya" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Bansi Rakholiya's LinkedIn"/></a> <a href="mailto:bansirakholiya99@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Bansi Rakholiya's Email"/></a></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://github.com/bansirakholiya">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-</a>
-<a href="https://linkedin.com/in/bansi-rakholiya">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-</a>
-  <a href="mailto:bansirakholiya99@gmail.com">
-  <img src="https://img.shields.io/badge/Email-bansirakholiya99%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=dotnet,react,js,html,css,mysql,postgres,angular,c" />
-</p>
-
----
-
-## ⚡ Tech Badges
-
-<p align="center">
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bansirakholiya&show_icons=true&theme=tokyonight&border_radius=10" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bansirakholiya&theme=tokyonight&border_radius=10" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bansirakholiya&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bansirakholiya&theme=tokyo-night&border_radius=10"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bansirakholiya&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-## 🎯 Goals
-
-<p align="center">
-<span style="background:#1f6feb; padding:8px 12px; border-radius:20px; color:white;">🚀 Full Stack Developer</span>
-<span style="background:#238636; padding:8px 12px; border-radius:20px; color:white;">🌍 Open Source</span>
-<span style="background:#da3633; padding:8px 12px; border-radius:20px; color:white;">🧩 Scalable Apps</span>
-</p>
-
----
-
-## 🧠 Currently Learning
-
-```diff
-+ Advanced Backend Development
-+ System Design Concepts
-+ Performance Optimization
